@@ -1,0 +1,4 @@
+privaquest
+bin/
+*.db
+*.test
