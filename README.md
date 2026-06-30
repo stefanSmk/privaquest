@@ -1,5 +1,8 @@
 # PrivaQuest
 
+![CI](https://github.com/stefanSmk/privaquest/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Self-hosted GDPR / DSGVO / RGPD **data subject request** manager for small EU teams.
 
 When someone emails "delete my data" or "send me everything you have on me", you have **one month** to respond (Art. 12 GDPR). Most small companies track that in email threads or spreadsheets. This tool gives you a proper queue, deadlines, and an audit trail — on your own server.
@@ -83,6 +86,11 @@ Details: [docs/market-research.md](./docs/market-research.md)
 ## Not legal advice
 
 Organizes requests. You still need a privacy policy and real deletion/export processes.
+
+## Related projects
+
+- [RopaDesk](https://github.com/stefanSmk/ropadesk) — Art. 30 processing activities register
+- [CookieAudit](https://github.com/stefanSmk/cookieaudit) — cookie & tracker scanner
 
 ## Other languages
 

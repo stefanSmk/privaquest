@@ -39,6 +39,11 @@ curl -X POST http://localhost:8080/api/requests \
 
 Software zur Organisation — Datenschutzerklärung und echte Löschprozesse braucht ihr trotzdem.
 
+## Verwandte Projekte
+
+- [RopaDesk](https://github.com/stefanSmk/ropadesk) — Verarbeitungsverzeichnis (Art. 30)
+- [CookieAudit](https://github.com/stefanSmk/cookieaudit) — Cookie- und Tracker-Scanner
+
 ## Weitere Sprachen
 
 - [English](./README.md)

@@ -33,6 +33,11 @@ Formulaire : `http://localhost:8080`
 
 Organisation seulement — politique de confidentialité et vrais processus de suppression restent nécessaires.
 
+## Projets associés
+
+- [RopaDesk](https://github.com/stefanSmk/ropadesk) — registre des activités (Art. 30)
+- [CookieAudit](https://github.com/stefanSmk/cookieaudit) — scanner cookies et trackers
+
 ## Autres langues
 
 - [English](./README.md)
